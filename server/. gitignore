@@ -1,0 +1,30 @@
+# Dependency directory
+
+node_modules/
+
+# Environment variables
+
+.env
+
+# Logs
+
+\*.log
+
+# Optional npm cache directory
+
+.npm
+
+# Optional eslint cache
+
+.eslintcache
+
+# Build directory
+
+# Server build directory
+server/build/
+
+/dist
+
+# Production build directory
+
+/build
